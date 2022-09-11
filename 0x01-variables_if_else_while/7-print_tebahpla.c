@@ -6,7 +6,7 @@
  *
  * Return Always  0 (Success)
  */
-int main(world)
+int main(void)
 {
 	char low;
 
