@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * print_alpahbet_x10 - function to print abc 10 times2
+ * print_alpahbet_x10 - function to print abc 10 times
+ * Description: Print abc 10 times
  *
  * Return :0
  */
